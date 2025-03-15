@@ -1,0 +1,3 @@
+## DashBoard de Vendas de Produtos Eletrônicos
+Esse Dashboard aborda correlações de dados de uma base de dados de vendas. Ele permite segmentar os gráficos pelo produto e pela cidade na qual os aparelhos possam ter sido vendidos. Com base nos indicadores, é possível ver a receita total do produto, a quantidade disponível para venda, a quantidade vendida, receita por vendedor, a porcentagem obtida em relação a meta e outros fatores.
+Para acessar o template, basta acessar o arquivo PDF e para acessar o dasboard, basta acessar o arquivo pbix. Existem duas versões de dashboard, um para aparelhos de mesa e outro para arquivos móveis.
